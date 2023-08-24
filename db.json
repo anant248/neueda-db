@@ -1,0 +1,32 @@
+[
+  {
+    "holdings": "Apple Inc.",
+    "ticker": "AAPL",
+    "qty": 10,
+    "price": 179
+  },
+  {
+    "holdings": "Microsoft Corporation",
+    "ticker": "MSFT",
+    "qty": 10,
+    "price": 200
+  },
+  {
+    "holdings": "Tesla",
+    "ticker": "TSLA",
+    "qty": 10,
+    "price": 300
+  },
+  {
+    "holdings": "Alphabet Inc.",
+    "ticker": "GOOG",
+    "qty": 10,
+    "price": 112
+  },
+  {
+    "holdings": "Amazon Inc.",
+    "ticker": "AMZN",
+    "qty": 10,
+    "price": 120
+  }
+]
