@@ -1,4 +1,5 @@
-[
+{
+  "portfolio": [
   {
     "holdings": "Apple Inc.",
     "ticker": "AAPL",
@@ -30,3 +31,4 @@
     "price": 120
   }
 ]
+}
